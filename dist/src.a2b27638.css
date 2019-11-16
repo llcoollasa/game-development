@@ -1,0 +1,18 @@
+body {
+  font-family: sans-serif;
+}
+
+#gameScreen {
+  border: 1px solid black;
+}
+
+#ball {
+  display: none;
+}
+
+#brick {
+  display: none;
+}
+
+
+/*# sourceMappingURL=/src.a2b27638.css.map */
